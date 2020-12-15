@@ -1,6 +1,6 @@
 # Old rally car in in brick built format
 
-![Alt text](studio/Old%20rally%20car.png?raw=true "Title")
+![Alt text](studio/old_rally_car.png?raw=true "Title")
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
